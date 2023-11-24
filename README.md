@@ -1,2 +1,2 @@
 # firstproject
-rövid leírás
+rövid leírást
